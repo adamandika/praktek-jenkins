@@ -6,5 +6,6 @@ pipeline{
                 git branch: 'master', url: 'https://github.com/adamandika/praktek-jenkins.git'
 
             }
+        }        
     }
 }
